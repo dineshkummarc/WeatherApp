@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Welcome to Birthday Reminders Portal</title>
+	<title>Welcome to Weather Check Portal</title>
 
 	<style type="text/css">
 
@@ -68,12 +68,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter port of Birthday Reminder!</h1>
+	<h1>Welcome to CodeIgniter port of phpmyWeather!</h1>
 
 	<div id="body">
 	
-	<a href="birthdays">Birthdays Reminder</a> <br/>
-	<a href="birthdaydetails">Birthday Details</a>
+	<a href="googleweather">Google Weather check</a> <br/>
+	<a href="scrapingweather">Scraping Weather check</a>
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 </div>
