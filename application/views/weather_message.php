@@ -34,7 +34,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 		<style type="text/css">
 			html {
-				background: url(background.jpg) no-repeat center center fixed;
+				background: url(http://local.rocket.co.in:8081/CheckThesePortals/phpmyWeather/background.jpg) no-repeat center center fixed;
 				-webkit-background-size: cover;
 				-moz-background-size: cover;
 				-o-background-size: cover;
