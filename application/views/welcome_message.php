@@ -72,8 +72,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div id="body">
 	
-	<a href="googleweather">Google Weather check</a> <br/>
-	<a href="scrapingweather">Scraping Weather check</a>
+	<a href="index.php/GoogleApi">Google Weather check</a> <br/>
+	<a href="index.php/scraping">Scraping Weather check</a>
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 </div>
