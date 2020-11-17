@@ -1,5 +1,5 @@
-# WeatherApp
-Web app that shows the wather of a searched city
+# phpmyWeather
+codeigniter PORT of the Web app that shows the weather of a searched city
 
 URL: http://anajelusic-com.stackstaging.com/Udemy/8-apis/weather.php
 
