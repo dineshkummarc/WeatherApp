@@ -7,3 +7,5 @@ There is a search bar on the webpage where user writes name of the city and gets
 In the directory "Google API" the code is written in PHP and the information is gotten from Google API.
 
 This is a project for The Complete Web Decvelopment course on Udemy.
+
+## Screenshot
